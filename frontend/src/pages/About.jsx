@@ -44,7 +44,7 @@ function About() {
                 <p className="text-lg text-gray-300 text-center">
                     Have any questions or suggestions? Feel free to reach out to us at{" "}
                     <a href="mailto:rutikutekar2003@gmail.com" className="text-blue-400 underline hover:text-blue-500">
-                        vishal25@gmail.com
+                        mvishalsingh25@gmail.com
                     </a>.
                 </p>
             </div>
